@@ -13,3 +13,7 @@ This is a simple markdown generator in Lua, with support for ToC (Table of Conte
         Hello, world!
     ]]
     html = markdown(text)
+
+### Copyright + License ###
+Copyright 2013-2014, Daniel Gruno.
+Licensed under the Apache License v/2.
